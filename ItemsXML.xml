@@ -1,0 +1,59 @@
+<document>
+<Item>
+  <Name>Wood Bat</Name>
+	<ID>1</ID>
+	<Type>WEAPON</Type>
+  <Power>10</Power>
+	<Description>Your standard wood baseball bat.</Description>
+</Item>
+<Item>
+	<Name>Wood Slingshot</Name>
+	<ID>2</ID>
+	<Type>WEAPON</Type>
+  <Power>5</Power>
+	<Description>Your standard wood slingshot.</Description>
+</Item>
+<Item>
+	<Name>Wood Slingshot</Name>
+	<ID>2</ID>
+	<Type>WEAPON</Type>
+  <Power>7</Power>
+	<Description>Some Description</Description>
+</Item>
+<Item>
+	<Name>Wood Bat</Name>
+	<ID>1</ID>
+	<Type>WEAPON</Type>
+  <Power>9</Power>
+	<Description>Your standard wood baseball bat.</Description>
+</Item>
+<Item>
+	<Name>Wood Slingshot</Name>
+	<ID>2</ID>
+	<Type>WEAPON</Type>
+  <Power>1</Power>
+	<Description>Your standard wood slingshot.</Description>
+</Item>
+<Item>
+	<Name>Wood Bat</Name>
+	<ID>1</ID>
+	<Type>WEAPON</Type>
+  <Power>2</Power>
+	<Description>Your standard wood baseball bat.</Description>
+</Item>
+<Item>
+	<Name>Wood Slingshot</Name>
+	<ID>2</ID>
+	<Type>WEAPON</Type>
+  <Power>3</Power>
+	<Description>Your standard wood slingshot.</Description>
+</Item>
+<Item>
+	<Name>Wood Bat</Name>
+	<ID>1</ID>
+	<Type>WEAPON</Type>
+  <Power>4</Power>
+	<Description>Your standard wood baseball bat.</Description>
+</Item>
+</document>
+
